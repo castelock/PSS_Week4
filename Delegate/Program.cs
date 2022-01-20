@@ -2,9 +2,7 @@
 
 namespace Delegate
 {
-    public delegate void Del(string message);
-
-    
+    public delegate void Del(string message);    
 
     class Program
     {
