@@ -5,15 +5,17 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{2852E404-71F4-462B-B560-91F7AA9AB5B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternIterator", "PatternIterator\PatternIterator.csproj", "{2902676F-8B4B-47CC-90B1-04EDF235FC57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternIterator", "PatternIterator\PatternIterator.csproj", "{2902676F-8B4B-47CC-90B1-04EDF235FC57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerator", "IEnumerator\IEnumerator.csproj", "{CDAEEEBD-A523-4863-8B76-A7E09193F3E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEnumerator", "IEnumerator\IEnumerator.csproj", "{CDAEEEBD-A523-4863-8B76-A7E09193F3E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{9D23DE13-2DC1-40FC-A1CC-BD85FBAF1461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yield", "Yield\Yield.csproj", "{9D23DE13-2DC1-40FC-A1CC-BD85FBAF1461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorCollection", "IteratorCollection\IteratorCollection.csproj", "{D15BFF97-EE40-4D7B-A509-A9908B339729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorCollection", "IteratorCollection\IteratorCollection.csproj", "{D15BFF97-EE40-4D7B-A509-A9908B339729}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCode", "TypeCode\TypeCode.csproj", "{7F7046AA-7942-4147-97A4-6241CCB6A182}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeCode", "TypeCode\TypeCode.csproj", "{7F7046AA-7942-4147-97A4-6241CCB6A182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleProvider", "StyleProvider\StyleProvider.csproj", "{E9515D19-6934-4D28-B528-0E055EF08D18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7F7046AA-7942-4147-97A4-6241CCB6A182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7046AA-7942-4147-97A4-6241CCB6A182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7046AA-7942-4147-97A4-6241CCB6A182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9515D19-6934-4D28-B528-0E055EF08D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9515D19-6934-4D28-B528-0E055EF08D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9515D19-6934-4D28-B528-0E055EF08D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9515D19-6934-4D28-B528-0E055EF08D18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
