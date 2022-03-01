@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorCollection", "IteratorCollection\IteratorCollection.csproj", "{D15BFF97-EE40-4D7B-A509-A9908B339729}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCode", "TypeCode\TypeCode.csproj", "{7F7046AA-7942-4147-97A4-6241CCB6A182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D15BFF97-EE40-4D7B-A509-A9908B339729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15BFF97-EE40-4D7B-A509-A9908B339729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15BFF97-EE40-4D7B-A509-A9908B339729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7046AA-7942-4147-97A4-6241CCB6A182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7046AA-7942-4147-97A4-6241CCB6A182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7046AA-7942-4147-97A4-6241CCB6A182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7046AA-7942-4147-97A4-6241CCB6A182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
