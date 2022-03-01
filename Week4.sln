@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerator", "IEnumerator\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{9D23DE13-2DC1-40FC-A1CC-BD85FBAF1461}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorCollection", "IteratorCollection\IteratorCollection.csproj", "{D15BFF97-EE40-4D7B-A509-A9908B339729}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9D23DE13-2DC1-40FC-A1CC-BD85FBAF1461}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D23DE13-2DC1-40FC-A1CC-BD85FBAF1461}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D23DE13-2DC1-40FC-A1CC-BD85FBAF1461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15BFF97-EE40-4D7B-A509-A9908B339729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15BFF97-EE40-4D7B-A509-A9908B339729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15BFF97-EE40-4D7B-A509-A9908B339729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15BFF97-EE40-4D7B-A509-A9908B339729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
