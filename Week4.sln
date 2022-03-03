@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleIList", "ExampleILis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleIDictionary", "ExampleIDictionary\ExampleIDictionary.csproj", "{3AD95A75-F3E1-4B9E-B706-7B5C2657025F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleLinkedList", "ExampleLinkedList\ExampleLinkedList.csproj", "{62FC9D7C-A7F4-4603-8CD8-6AF3862AE648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3AD95A75-F3E1-4B9E-B706-7B5C2657025F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD95A75-F3E1-4B9E-B706-7B5C2657025F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD95A75-F3E1-4B9E-B706-7B5C2657025F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FC9D7C-A7F4-4603-8CD8-6AF3862AE648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FC9D7C-A7F4-4603-8CD8-6AF3862AE648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FC9D7C-A7F4-4603-8CD8-6AF3862AE648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FC9D7C-A7F4-4603-8CD8-6AF3862AE648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
