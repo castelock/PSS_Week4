@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeCode", "TypeCode\TypeCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StyleProvider", "StyleProvider\StyleProvider.csproj", "{E9515D19-6934-4D28-B528-0E055EF08D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureIFormattable", "TemperatureIFormattable\TemperatureIFormattable.csproj", "{947EA2BD-24A3-4783-A2F4-6E093C1C26E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureIFormattable", "TemperatureIFormattable\TemperatureIFormattable.csproj", "{947EA2BD-24A3-4783-A2F4-6E093C1C26E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{8C383235-184B-4ABB-8275-8B22A90F1845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{947EA2BD-24A3-4783-A2F4-6E093C1C26E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{947EA2BD-24A3-4783-A2F4-6E093C1C26E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{947EA2BD-24A3-4783-A2F4-6E093C1C26E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C383235-184B-4ABB-8275-8B22A90F1845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C383235-184B-4ABB-8275-8B22A90F1845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C383235-184B-4ABB-8275-8B22A90F1845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C383235-184B-4ABB-8275-8B22A90F1845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
