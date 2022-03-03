@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureIFormattable", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{8C383235-184B-4ABB-8275-8B22A90F1845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapVariables", "SwapVariables\SwapVariables.csproj", "{8029B414-FBBB-4814-A61C-E640BB6D890F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleICollection", "ExampleICollection\ExampleICollection.csproj", "{EE862BF5-4D77-4506-95EB-3BEAE2DACE79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{8C383235-184B-4ABB-8275-8B22A90F1845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C383235-184B-4ABB-8275-8B22A90F1845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C383235-184B-4ABB-8275-8B22A90F1845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8029B414-FBBB-4814-A61C-E640BB6D890F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8029B414-FBBB-4814-A61C-E640BB6D890F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8029B414-FBBB-4814-A61C-E640BB6D890F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8029B414-FBBB-4814-A61C-E640BB6D890F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE862BF5-4D77-4506-95EB-3BEAE2DACE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE862BF5-4D77-4506-95EB-3BEAE2DACE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE862BF5-4D77-4506-95EB-3BEAE2DACE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE862BF5-4D77-4506-95EB-3BEAE2DACE79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
