@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleList", "ExampleList\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleSortedSet", "ExampleSortedSet\ExampleSortedSet.csproj", "{A53FBA58-DF44-4E96-B5EB-74A4703B47AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleHashSet", "ExampleHashSet\ExampleHashSet.csproj", "{666D8DAF-8316-45E1-975C-9BFCBBF343A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{A53FBA58-DF44-4E96-B5EB-74A4703B47AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A53FBA58-DF44-4E96-B5EB-74A4703B47AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A53FBA58-DF44-4E96-B5EB-74A4703B47AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666D8DAF-8316-45E1-975C-9BFCBBF343A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666D8DAF-8316-45E1-975C-9BFCBBF343A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666D8DAF-8316-45E1-975C-9BFCBBF343A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666D8DAF-8316-45E1-975C-9BFCBBF343A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
