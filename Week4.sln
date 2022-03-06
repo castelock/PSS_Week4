@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleSortedList", "Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceContravariance", "CovarianceContravariance\CovarianceContravariance.csproj", "{24E2520A-368F-4358-8315-4940E7ADE9F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateGenericCovariance", "DelegateGenericCovariance\DelegateGenericCovariance.csproj", "{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{24E2520A-368F-4358-8315-4940E7ADE9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E2520A-368F-4358-8315-4940E7ADE9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24E2520A-368F-4358-8315-4940E7ADE9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
