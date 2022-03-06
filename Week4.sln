@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceContravariance", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateGenericCovariance", "DelegateGenericCovariance\DelegateGenericCovariance.csproj", "{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateGenericContravariance", "DelegateGenericContravariance\DelegateGenericContravariance.csproj", "{EBF72F47-4B71-49E9-AC10-B71F6DEDEEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{640A4D97-DE53-4A8D-9CEA-CF9DBD5AC5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF72F47-4B71-49E9-AC10-B71F6DEDEEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF72F47-4B71-49E9-AC10-B71F6DEDEEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF72F47-4B71-49E9-AC10-B71F6DEDEEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF72F47-4B71-49E9-AC10-B71F6DEDEEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
