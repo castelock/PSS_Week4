@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleFunc", "ExampleFunc\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethod", "AnonymousMethod\AnonymousMethod.csproj", "{502F347D-F658-44F1-8D26-83748D691143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{EEA5772F-FC33-4998-8484-34B66DAA3FCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{502F347D-F658-44F1-8D26-83748D691143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{502F347D-F658-44F1-8D26-83748D691143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{502F347D-F658-44F1-8D26-83748D691143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA5772F-FC33-4998-8484-34B66DAA3FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA5772F-FC33-4998-8484-34B66DAA3FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA5772F-FC33-4998-8484-34B66DAA3FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA5772F-FC33-4998-8484-34B66DAA3FCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
