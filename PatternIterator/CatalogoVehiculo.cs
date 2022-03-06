@@ -11,7 +11,7 @@ namespace PatternIterator
         public CatalogoVehiculo()
         {
             contenido.Add(new Vehiculo("vehículo económico"));
-            contenido.Add(new Vehiculo("pequeño véhículo económico"));
+            contenido.Add(new Vehiculo("pequeño vehículo económico"));
             contenido.Add(new Vehiculo("vehículo de gran calidad"));
 
         }

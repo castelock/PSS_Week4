@@ -25,21 +25,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapVariables", "SwapVariab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleICollection", "ExampleICollection\ExampleICollection.csproj", "{EE862BF5-4D77-4506-95EB-3BEAE2DACE79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleIList", "ExampleIList\ExampleIList.csproj", "{61AF1AEE-255E-4528-992E-76947698546C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleIList", "ExampleIList\ExampleIList.csproj", "{61AF1AEE-255E-4528-992E-76947698546C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleIDictionary", "ExampleIDictionary\ExampleIDictionary.csproj", "{3AD95A75-F3E1-4B9E-B706-7B5C2657025F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleIDictionary", "ExampleIDictionary\ExampleIDictionary.csproj", "{3AD95A75-F3E1-4B9E-B706-7B5C2657025F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleLinkedList", "ExampleLinkedList\ExampleLinkedList.csproj", "{62FC9D7C-A7F4-4603-8CD8-6AF3862AE648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleLinkedList", "ExampleLinkedList\ExampleLinkedList.csproj", "{62FC9D7C-A7F4-4603-8CD8-6AF3862AE648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleList", "ExampleList\ExampleList.csproj", "{B71805B7-FF19-4651-88BD-F2649E3A914E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleList", "ExampleList\ExampleList.csproj", "{B71805B7-FF19-4651-88BD-F2649E3A914E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleSortedSet", "ExampleSortedSet\ExampleSortedSet.csproj", "{A53FBA58-DF44-4E96-B5EB-74A4703B47AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleSortedSet", "ExampleSortedSet\ExampleSortedSet.csproj", "{A53FBA58-DF44-4E96-B5EB-74A4703B47AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleHashSet", "ExampleHashSet\ExampleHashSet.csproj", "{666D8DAF-8316-45E1-975C-9BFCBBF343A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleHashSet", "ExampleHashSet\ExampleHashSet.csproj", "{666D8DAF-8316-45E1-975C-9BFCBBF343A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDictionary", "ExampleDictionary\ExampleDictionary.csproj", "{275D7997-EF27-44E1-A871-7C765136FFC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleDictionary", "ExampleDictionary\ExampleDictionary.csproj", "{275D7997-EF27-44E1-A871-7C765136FFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleSortedList", "ExampleSortedList\ExampleSortedList.csproj", "{7F732CE4-B39E-4FD6-B085-8E1089E4872F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleSortedList", "ExampleSortedList\ExampleSortedList.csproj", "{7F732CE4-B39E-4FD6-B085-8E1089E4872F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceContravariance", "CovarianceContravariance\CovarianceContravariance.csproj", "{24E2520A-368F-4358-8315-4940E7ADE9F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{7F732CE4-B39E-4FD6-B085-8E1089E4872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F732CE4-B39E-4FD6-B085-8E1089E4872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F732CE4-B39E-4FD6-B085-8E1089E4872F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E2520A-368F-4358-8315-4940E7ADE9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E2520A-368F-4358-8315-4940E7ADE9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E2520A-368F-4358-8315-4940E7ADE9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E2520A-368F-4358-8315-4940E7ADE9F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
